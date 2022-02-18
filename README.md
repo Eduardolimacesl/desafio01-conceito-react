@@ -1,4 +1,4 @@
-# desafio01-conceito-react
+# desafio01-conceitos-react
 Desafio da trilha ReactJS do ignite.
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
